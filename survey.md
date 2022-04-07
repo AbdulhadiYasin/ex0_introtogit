@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: White
+Favorite food: Roz&Fuqae'ya
+Favorite musician/band: Baladi
+Favorite movie: The Man who knew no thing
+Requested grade in the course: 100
